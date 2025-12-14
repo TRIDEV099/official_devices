@@ -1,2 +1,2 @@
-# 30-November-2025
-- Initial Android 15 Beta Release
+# 14-December-2025
+- Initial Android 16 QPR1 Release
