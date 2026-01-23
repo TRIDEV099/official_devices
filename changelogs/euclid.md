@@ -1,3 +1,28 @@
+# 23-January-2026 (euclidOS-3.2)
+- Added Automated Sleep Mode
+- Fixed AOD showing colored clock instead of outline clock
+- Fixed CTS (Circle to Search)
+- Added AppLock
+- Added Gesture Navbar height & length settings
+- Added LMOFreeform & Sidebar
+- Added OmniJaws
+- Added SmartSpace
+- Added Toggle for Smartspace
+- Fixed ringer tile height
+- Added Data Disable toggle
+- Added toggle to show 4G instead of LTE
+- Added better implementation of network traffic indicator
+-  Added 5G toggle to internet tile
+- Added support for Flashlight strength control 
+- Added toggle to show Data usage on the QS Footer
+- Added more functionalities and features to Geon Launcher
+- Added under-the-hood changes and optimizations
+- Added Lineage Hardware Support 
+- Added Livedisplay support 
+- Added Lineage Touch support 
+- Added Lineage Health support
+- Switched to Axion Color Picker implementation
+
 # 12-December-2025 (euclidOS-3.1)
 - Added Private DNS
 - Added toggle to hide ime button
