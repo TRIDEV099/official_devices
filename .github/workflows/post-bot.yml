@@ -23,7 +23,8 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          sudo pip install romkit
+          sudo apt remove python3-yaml
+          sudo pip install romkit noobstuffs
 
       - name: Set Git Configs & Secrets
         run: |
@@ -42,4 +43,4 @@ jobs:
           COMMIT_MESSAGE=$(cat commit_mesg.txt)
           rm commit_mesg.txt
           git add . && git commit -sm "$COMMIT_MESSAGE"
-          git push origin 15
+          git push origin 16

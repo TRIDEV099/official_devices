@@ -21,8 +21,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-from Romkit.orgposter import OrgPoster
+from RomKit.orgposter import OrgPoster
 
 # Initialize and run the bot with your config file
-bot = OrgPoster("romkit.yaml")
+bot = OrgPoster(".github/scripts/romkit.yaml")
 bot.run()

@@ -43,7 +43,7 @@ message_template: |
 
 file_ids_path: "./.github/scripts/file_ids.txt"
 
-banner_path: "./assets/banner.jpg"
+banner_path: "./assets/banner.png"
 
 version_repo: "euclidOS-AOSP/vendor_euclid"
 version_file: "config/version.mk"
