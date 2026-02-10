@@ -8,7 +8,7 @@ rom_name: "EuclidOS"
 website_url: "https://euclidos.org"
 
 json_directories:
-  Dir: "./devices"
+  Dir: "./builds"
 
 device_json_structure: {
   "maintainer": "",
@@ -47,7 +47,7 @@ banner_path: "./assets/banner.jpg"
 
 version_repo: "euclidOS-AOSP/vendor_euclid"
 version_file: "config/version.mk"
-version_template: "{EUCLID_VERSION}"
+version_template: "v{EUCLID_VERSION}"
 version_field: "version"
 
 device_name_field: "device"

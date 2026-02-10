@@ -3,7 +3,7 @@ name: Rom Poster Bot
 on:
   push:
     paths:
-      - "devices/*.json"
+      - "builds/*.json"
   workflow_dispatch:
 
 env:
