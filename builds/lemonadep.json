@@ -3,12 +3,12 @@
   "oem": "OnePlus",
   "device": "lemonadep",
   "version": "v3.2",
-  "filename": "euclidOS-v3.2-Axiom-lemonadep-20260209-1527-OFFICIAL.zip",
+  "filename": "euclidOS-v3.2-Axiom-lemonadep-20260209-2147-OFFICIAL.zip",
   "download": "https://www.euclidos.org/downloads/lemonadep/",
-  "timestamp": 1770668440,
-  "md5": "6206818a41c56946ed53066e443610cf",
-  "sha256": "8d7d0e8a883058ed368153644d346dd4b9ff973d31f37f144d282ebd27619c46",
-  "size": 2698717047,
-  "telegram": "Mrick343",
-  "support": "https://t.me/Addy_RomHub"
+  "timestamp": 1770675674,
+  "md5": "6f191bd9d7beb927dd0abaf98785494c",
+  "sha256": "d7dd92dc3f6f6fd9f0c94c11ed0122401aa54ec3a6fb87c1be01a2662c82cf0f",
+  "size": 2698715914,
+  "telegram": "TELEGRAM_USERNAME",
+  "support": "https://t.me/YOURCHATSUPPORT"
 }

@@ -13,6 +13,6 @@
 **Dirty flash:**
 - Download the ROM
 - Boot into recovery
-- Wipe Dalvik/ArtCache and Data
-- Flash the ROM and reboot to recovery
+- Flash the ROM.zip
+- Wipe Dalvik/ArtCache
 - Reboot To System
