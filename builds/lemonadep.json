@@ -1,7 +1,7 @@
 {
   "maintainer": "Mrick343",
   "oem": "OnePlus",
-  "device": "lemonadep",
+  "device": "OnePlus 9 Pro",
   "version": "v3.2",
   "filename": "euclidOS-v3.2-Axiom-lemonadep-20260209-2147-OFFICIAL.zip",
   "download": "https://www.euclidos.org/downloads/lemonadep/",
@@ -9,6 +9,6 @@
   "md5": "6f191bd9d7beb927dd0abaf98785494c",
   "sha256": "d7dd92dc3f6f6fd9f0c94c11ed0122401aa54ec3a6fb87c1be01a2662c82cf0f",
   "size": 2698715914,
-  "telegram": "TELEGRAM_USERNAME",
-  "support": "https://t.me/YOURCHATSUPPORT"
+  "telegram": "Mrick343",
+  "support": "https://t.me/Addy_RomHub"
 }

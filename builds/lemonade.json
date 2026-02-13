@@ -1,14 +1,14 @@
 {
   "maintainer": "Mrick343",
   "oem": "OnePlus",
-  "device": "lemonade",
+  "device": "OnePlus 9",
   "version": "v3.2",
-  "filename": "euclidOS-v3.2-Axiom-lemonade-20260209-1501-OFFICIAL.zip",
-  "download": "https://www.euclidos.org/downloads/OnePlus9/",
-  "timestamp": 1770650454,
-  "md5": "f9ed1371c0a0a44b7dc9f721538b19a6",
-  "sha256": "ef16bdbd4af8f811c2026f686a1eb2645f225dbbbd3b9c042970d8c5edc2f93c",
-  "size": 2693109664,
+  "filename": "euclidOS-v3.2-Axiom-lemonade-20260213-0439-OFFICIAL.zip",
+  "download": "https://www.euclidos.org/downloads/lemonade/",
+  "timestamp": 1770959921,
+  "md5": "f81201a979551000fff64bf52deb7e03",
+  "sha256": "f77e624ea949fb884f2417488d5e4727d7d0bf3025cd2c250eed224689f7ff8b",
+  "size": 2563759568,
   "telegram": "Mrick343",
   "support": "https://t.me/Addy_RomHub"
 }
