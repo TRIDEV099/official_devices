@@ -40,6 +40,10 @@ jobs:
       - name: Commit and Push Changes
         run: | 
           git fetch && git pull
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "No updates detected. Skipping commit."
+            exit 0
+          fi
           COMMIT_MESSAGE=$(cat commit_mesg.txt)
           rm commit_mesg.txt
           git add . && git commit -sm "$COMMIT_MESSAGE"
