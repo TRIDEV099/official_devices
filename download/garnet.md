@@ -1,4 +1,4 @@
-<a href="https://downloads.euclidos.org/0:/Garnet/euclidOS-v3.1-Helios-garnet-20251231-1004-OFFICIAL.zip" style="
+<a href="https://sourceforge.net/projects/euclidos-releases/files/Android-16/garnet/euclidOS-v3.2-Axiom-garnet-20260214-0328-OFFICIAL.zip/download" style="
   display:inline-block;
   background:linear-gradient(135deg,#2196F3,#0D47A1);
   color:#fff;
