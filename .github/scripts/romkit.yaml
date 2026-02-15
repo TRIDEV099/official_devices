@@ -51,4 +51,4 @@ version_template: "{EUCLID_VERSION}"
 version_field: "version"
 
 device_name_field: "device"
-maintainer_field: "telegram"
+maintainer_telegram_field: "telegram"
