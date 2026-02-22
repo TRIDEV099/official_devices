@@ -1,4 +1,4 @@
-<a href="https://sourceforge.net/projects/euclidos-releases/files/Android-16/bangkk/euclidOS-v3.1-Helios-bangkk-20260107-1813-OFFICIAL.zip/download" style="
+<a href="https://downloads.euclidos.org/s/fZYjNnKe6qy8Xdr" style="
   display:inline-block;
   background:linear-gradient(135deg,#2196F3,#0D47A1);
   color:#fff;
@@ -13,4 +13,5 @@
 onmouseover="this.style.transform='scale(1.05)'"
 onmouseout="this.style.transform='scale(1)'">
   Download Now
+
 </a>
