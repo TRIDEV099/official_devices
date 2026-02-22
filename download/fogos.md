@@ -1,4 +1,4 @@
-<a href="https://sourceforge.net/projects/euclidos-releases/files/Android-16/fogos/euclidOS-v3.2-Axiom-fogos-20260129-1659-OFFICIAL.zip/download" style="
+<a href="https://downloads.euclidos.org/s/gjT6Y5yZAQCDy7Q" style="
   display:inline-block;
   background:linear-gradient(135deg,#2196F3,#0D47A1);
   color:#fff;
@@ -14,3 +14,4 @@ onmouseover="this.style.transform='scale(1.05)'"
 onmouseout="this.style.transform='scale(1)'">
   Download Now
 </a>
+
