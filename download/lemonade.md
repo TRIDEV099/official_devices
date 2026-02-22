@@ -1,4 +1,4 @@
-<a href="https://sourceforge.net/projects/euclidos-releases/files/Android-16/lemonade/euclidOS-v3.2-Axiom-lemonade-20260213-0439-OFFICIAL.zip/download" style="
+<a href="https://downloads.euclidos.org/s/zopgqgc3oF37yoS" style="
   display:inline-block;
   background:linear-gradient(135deg,#2196F3,#0D47A1);
   color:#fff;
