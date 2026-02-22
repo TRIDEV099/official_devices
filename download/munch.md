@@ -1,4 +1,4 @@
-<a href="https://sourceforge.net/projects/euclidos-releases/files/Android-16/munch/euclidOS-v3.2-Axiom-munch-20260208-1831-OFFICIAL.zip/download" style="
+<a href="https://downloads.euclidos.org/s/zxXB9sSYEpRdTCp" style="
   display:inline-block;
   background:linear-gradient(135deg,#2196F3,#0D47A1);
   color:#fff;
@@ -14,3 +14,4 @@ onmouseover="this.style.transform='scale(1.05)'"
 onmouseout="this.style.transform='scale(1)'">
   Download Now
 </a>
+
